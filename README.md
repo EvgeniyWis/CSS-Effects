@@ -6,6 +6,6 @@
    1. Склонируйте данный репозиторий.
    2. Откройте файл ```index.html```
  
- Или вы можете просто зайти на [сайт](https://kriswis.github.io/CSS-Effects/), загруженный на Github Pages.
+ Или вы можете просто зайти на [сайт](https://evgeniywis.github.io/CSS-Effects/), загруженный на Github Pages.
    
  # Все эффекты взяты с [данного плейлиста](https://www.youtube.com/watch?v=qYkqQCohfAc&list=PLNkWIWHIRwMEosiVP_3B-h4fE7CIfZ7pI).
